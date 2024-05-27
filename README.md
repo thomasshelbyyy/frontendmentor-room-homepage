@@ -56,9 +56,9 @@ Users should be able to:
 
   
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Github Link](https://github.com/thomasshelbyyy/frontendmentor-room-homepage)
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://thomasshelbyyy.github.io/frontendmentor-room-homepage/)
 
   
 
